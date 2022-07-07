@@ -1,4 +1,4 @@
-# galleria-imagenes-flexbox
+# galeria-imagenes-flexbox
 Ejercicio Openbootcamp
 
 -Enunciado del ejercicio: Crea un nuevo documento HTML con el título "Disposición de elementos en CSS":
